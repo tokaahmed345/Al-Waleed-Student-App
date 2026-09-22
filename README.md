@@ -1,4 +1,4 @@
-<img width="1080" height="1920" alt="screenshot-rocks (5)" src="https://github.com/user-attachments/assets/3be7c4f3-3166-4b3d-b059-3948e170759a" />
+
 
 <html lang="en">
 

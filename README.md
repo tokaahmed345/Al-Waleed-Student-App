@@ -77,21 +77,18 @@
 
   <hr>
 
-  <h2>🖼️ Screenshots</h2>
-
-  <p>
-    Screenshots of the implemented application:
-  </p>
 
 <h2>📸 Screenshots</h2>
 
 <div align="center">
 
-  <img width="200"  alt="screenshot-rocks (15)" src="https://github.com/user-attachments/assets/c798db46-f74d-4b95-bf8d-c1d060d2cc7a" />
+<img width="200"  src="https://github.com/user-attachments/assets/b4cba99e-c740-48ac-b1da-03e5cdbc6ef8" />
 
-<img width="200"  src="https://github.com/user-attachments/assets/0633f064-22fd-40db-99eb-0422384d3c3f" />
 
+<img width="200"  src="https://github.com/user-attachments/assets/57f26a32-031b-45e7-9c86-f3c574bf108d" />
+<img width="200"  src="https://github.com/user-attachments/assets/a79190e8-55cb-43f9-9c35-24134e395e50" />
 </div>
+
 
 <div align="center">
  <img width="200"  src="https://github.com/user-attachments/assets/8a1cb2b5-1312-42e5-bbee-eeb70c877cf5" />

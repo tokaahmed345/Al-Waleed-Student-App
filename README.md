@@ -167,66 +167,9 @@ width="250"
       </tr>
     </thead>
 
-```
-<tbody>
-  <tr>
-    <td>Authentication</td>
-    <td>✅ Completed</td>
-  </tr>
 
-  <tr>
-    <td>Lessons</td>
-    <td>✅ Completed</td>
-  </tr>
 
-  <tr>
-    <td>Lesson Details</td>
-    <td>✅ Completed</td>
-  </tr>
 
-  <tr>
-    <td>Lesson Tests</td>
-    <td>✅ Completed</td>
-  </tr>
-
-  <tr>
-    <td>Test Results</td>
-    <td>✅ Completed</td>
-  </tr>
-
-  <tr>
-    <td>Wrong Answers Review</td>
-    <td>✅ Completed</td>
-  </tr>
-
-  <tr>
-    <td>Live Sessions</td>
-    <td>✅ Completed</td>
-  </tr>
-
-  <tr>
-    <td>General Exams</td>
-    <td>🔄 In Progress</td>
-  </tr>
-
-  <tr>
-    <td>Study Materials</td>
-    <td>🔄 In Progress</td>
-  </tr>
-
-  <tr>
-    <td>Profile</td>
-    <td>🔄 In Progress</td>
-  </tr>
-
-  <tr>
-    <td>Exam History</td>
-    <td>🔄 In Progress</td>
-  </tr>
-</tbody>
-```
-
-  </table>
 
   <h2>🎨 UI & Design</h2>
 

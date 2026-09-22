@@ -157,15 +157,8 @@ width="250"
     <li>External Meeting Links</li>
   </ul>
 
-  <h2>🎯 Current Development Status</h2>
 
-  <table border="1" cellpadding="8" cellspacing="0">
-    <thead>
-      <tr>
-        <th>Feature</th>
-        <th>Status</th>
-      </tr>
-    </thead>
+
 
 
 

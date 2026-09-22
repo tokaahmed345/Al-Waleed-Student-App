@@ -112,51 +112,6 @@
 
 
 
-  <h3>🏠 Home</h3>
-
-<img
-src="screenshots/home.png"
-alt="Home Screen"
-width="250"
-
->
-
-  <h3>📚 Lessons</h3>
-
-<img
-src="screenshots/lessons.png"
-alt="Lessons Screen"
-width="250"
-
->
-
-  <h3>📝 Lesson Test</h3>
-
-<img
-src="screenshots/lesson_test.png"
-alt="Lesson Test Screen"
-width="250"
-
->
-
-  <h3>📊 Test Result</h3>
-
-<img
-src="screenshots/test_result.png"
-alt="Test Result Screen"
-width="250"
-
->
-
-  <h3>🎥 Live Session</h3>
-
-<img
-src="screenshots/live_session.png"
-alt="Live Session Screen"
-width="250"
-
->
-
   <hr>
 
   <h2>🛠️ Tech Stack</h2>
